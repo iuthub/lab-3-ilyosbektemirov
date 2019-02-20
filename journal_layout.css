@@ -1,0 +1,39 @@
+body {
+	border:10px white solid;
+	max-width: 80%;
+	margin:auto;
+}
+
+#block1{
+	border: 3px #A8F0F0 solid;
+	background-color: #A8F0F0;
+}
+
+#block2,#block3{
+	border: 4px #C2E9E9 solid;
+	background: #E8FBFB;
+	padding:5px;
+	margin-top: 10px;
+	border-height:auto;
+}
+
+#h21{
+	text-align: right;
+	font-size: 14pt;
+}
+
+.date {
+	border-bottom: 3px blue dashed;
+}
+
+body{
+	background-image: url(./images/background.png);
+}
+
+h1 {
+	text-align: right;
+}
+
+img {
+	float: right;
+}
